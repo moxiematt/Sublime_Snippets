@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+@font-face {
+  font-family: '$1';
+  src: url('$2.eot'); /* IE9 Compat Modes */
+  src: url('$2.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('$2.woff2') format('woff2'), /* Super Modern Browsers */
+       url('$2.woff') format('woff'), /* Pretty Modern Browsers */
+       url('$2.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('$2.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+body {
+  font-family: '$1', Fallback, sans-serif;
+}
+]]></content>
+	<tabTrigger>css-font</tabTrigger>
+	<scope>source.css</scope>
+</snippet>
