@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<img src="<?php bloginfo('template_url');?>/images/${1}.png" srcset="<?php bloginfo('template_url');?>/images/${1}.png 1x, <?php bloginfo('template_url');?>/images/${1}@2x.png 2x" alt="${1}" title="$1"/>
+]]></content>
+	<tabTrigger>retina</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

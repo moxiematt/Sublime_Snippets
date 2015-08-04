@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="row">
+	<div class="col-sm-6">
+		
+	</div>
+</div>
+
+]]></content>
+	<tabTrigger>bs-row</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

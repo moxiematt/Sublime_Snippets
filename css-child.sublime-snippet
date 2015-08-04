@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+/*
+ Theme Name:     $1
+ Template:       $2  
+ Version:        1.0.0
+*/
+ 
+@import url("../$2/style.css");
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+]]></content>
+	<tabTrigger>css-child</tabTrigger>
+	<scope>source.css</scope>
+</snippet>

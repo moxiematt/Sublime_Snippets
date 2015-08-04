@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<?php while(have_posts()): the_post();
+	the_content();
+	endwhile;?>
+
+]]></content>
+	<tabTrigger>wp-loop</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

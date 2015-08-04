@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<?php
+/**
+ * Template Name: $1
+ *
+ */
+
+ get_header(); ?>
+
+
+
+
+ <?php get_footer(); ?>
+
+]]></content>
+	<tabTrigger>wp-template</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<a class="btn btn-default" href="#" role="button">Link</a>
+]]></content>
+	<tabTrigger>bs-button</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

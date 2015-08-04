@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<?php bloginfo('template_directory'); ?>
+]]></content>
+	<tabTrigger>wp-td</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

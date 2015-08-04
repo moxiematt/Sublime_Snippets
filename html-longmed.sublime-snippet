@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<p>Vivamus fringilla, arcu id volutpat dignissim, purus nulla viverra est, egestas pharetra mi odio eget diam. Mauris laoreet erat ut nisi tristique, eu congue ligula dictum. Nam fermentum mattis mi ac tristique. Nullam sed vulputate sapien, imperdiet elementum sapien. Proin hendrerit consequat condimentum.</p>
+]]></content>
+	<tabTrigger>loremmed</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

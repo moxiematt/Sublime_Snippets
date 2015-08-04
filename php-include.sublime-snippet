@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<?php include '$1'; ?>
+]]></content>
+	<tabTrigger>php-inc</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
